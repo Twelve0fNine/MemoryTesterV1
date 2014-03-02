@@ -1,0 +1,8 @@
+D:\Eigene Dateien\Projekte\MemoryTest\MemoryTest\bin\Release\MemoryTest.exe
+D:\Eigene Dateien\Projekte\MemoryTest\MemoryTest\bin\Release\MemoryTest.pdb
+D:\Eigene Dateien\Projekte\MemoryTest\MemoryTest\obj\x86\Release\MemoryTest.Form1.resources
+D:\Eigene Dateien\Projekte\MemoryTest\MemoryTest\obj\x86\Release\MemoryTest.PlayerNameDialog.resources
+D:\Eigene Dateien\Projekte\MemoryTest\MemoryTest\obj\x86\Release\MemoryTest.Properties.Resources.resources
+D:\Eigene Dateien\Projekte\MemoryTest\MemoryTest\obj\x86\Release\MemoryTest.csproj.GenerateResource.Cache
+D:\Eigene Dateien\Projekte\MemoryTest\MemoryTest\obj\x86\Release\MemoryTest.exe
+D:\Eigene Dateien\Projekte\MemoryTest\MemoryTest\obj\x86\Release\MemoryTest.pdb
